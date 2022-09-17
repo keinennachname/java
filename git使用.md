@@ -11,13 +11,15 @@
 
 ### 将文件添加到仓库
 
-*git add xxx*  添加xxx文件到仓库
+*git add xxx*                        添加xxx文件到暂存区
 
-*git add .*   把所有更改的文件添加到仓库
+*git add .*                             把所有更改的文件添加到暂存区
 
-*git status*    查看状态
+*git status*                            查看状态
 
-*git commit -m "xxx"*   提交文件
+*git commit -m "xxx"*              提交文件
+
+git commit [file1] [file2]... -m [message]          将指定文件添加到本地分支
 
 ### 撤销和删除操作
 
