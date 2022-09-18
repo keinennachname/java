@@ -19,7 +19,7 @@
 
 *git commit -m "xxx"*              提交文件
 
-git commit [file1] [file2]... -m [message]          将指定文件添加到本地分支
+*git commit [file1] [file2]... -m [message]*          将指定文件添加到本地分支
 
 ### 撤销和删除操作
 
